@@ -1,0 +1,76 @@
+mi pana daniel mordecai:
+“Todo sitio que se precie anuncia una
+Interfaz Intuitiva como uno de sus
+méritos.”
+
+la idea es esta:
+la interacción de los visitantes
+con un sitio Web se desarrolla en
+tres niveles: mirar, leer y pensar.
+
+Cada uno de ellos requiere un
+grado de atención particular. pero todos son AL MISMO TIEMPO 
+
+MIRO Y ENTIENDO:
+Se trata de un nivel de interacción semiconsciente
+o inconsciente, donde el visitante requiere
+de un esfuerzo casi nulo para hacerse
+de una noción de la estructura de la
+página y las posibilidades de interacción
+con la misma. 
+
+ESTO SE DA POR:
+
+- Experiencia previa del usuario.
+
+- Reconocimiento de patrones
+  de diseño e interacción y de
+  las relaciones de causa-efecto.
+
+Si el diseño tuvo en cuenta el nivel
+“Miro y entiendo” como: la agrupación
+visual, las jerarquías, los efectos cromáticos,
+los espacios, la ubicación, etc, el visitante
+entenderá la interfaz del sitio de manera
+inmediata, sin esfuerzo.
+
+Leo y entiendo:
+Es el nivel siguiente de interacción, después
+de “Miro y entiendo”.
+Se trata de un nivel más potente, pero que
+requiere más esfuerzo.
+
+DEPEDNE DE : 
+
+- Experiencia previa del usuario
+
+- Por más que el usuario no conozca
+  la web, lee y entiende lo
+  que se le propone. Se informa y hace.
+
+Pienso y entiendo:
+Se trata del tercer nivel de interacción donde
+se necesita toda la atención del usuario.
+Sólo se justifica en tareas específicas que
+requieran de concentración.
+
+Se presenta cuando se recurre a conceptos e
+ideas que no están en la pantalla de
+manera literal (imágenes, textos).
+
+USABLIDAD:
+- Uso de estándares
+- Consistencia visual e interactiva
+- Miro y entiendo
+
+IMPORTA MUCHO QUE EL DISEÑO SEA INTUITIVO, SIGUIENDO EL DISEÑO CONSISTENTE Y CLARO
+
+
+VISUALIZACIÓN Y MAPEADDO:
+
+La visualización de datos es el proceso de utilizar
+elementos visuales como distintos tipos de gráficos
+o mapas (animados o interactivos) para representar
+datos dinámicos.
+
+

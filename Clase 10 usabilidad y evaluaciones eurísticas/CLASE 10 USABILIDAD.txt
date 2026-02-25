@@ -1,0 +1,21 @@
+usabilidad depende de:
+1. Capacidad de aprendizaje:
+¿Qué tan fácil es para el usuario 
+realizar tareas básicas la primera vez que utiliza el producto?
+
+2. Eficiencia:
+¿Qué tan rápido
+puede el usuario realizar tareas y/o resolver sus necesidades con el producto?
+
+3. Fiabilidad:
+Cuando el usuario vuelve al producto después de un
+tiempo de no usarlo, ¿con qué facilidad puede volver a
+usarlo de manera útil?
+
+4. Errores:
+¿Cuántos errores comete el usuario? ¿Qué tan graves
+son estos errores? ¿Con qué facilidad puede el usuario
+superarlos para seguir usando el producto?
+
+5. Satisfacción:
+¿Qué tan agradable es para el usuario usar el producto?

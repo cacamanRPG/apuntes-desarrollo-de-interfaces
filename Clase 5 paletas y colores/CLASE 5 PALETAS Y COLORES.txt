@@ -1,0 +1,8 @@
+El RGB junto es una síntesis aditiva.
+por que suman frecuencias de onda
+
+Los colores pigmento: el mangenta, cyan y amarillo.
+son los CMYK, su fusión da el negro. Su mezcla se
+llama síntesis sustractiva
+
+propiedades: tonalidad, saturación, brillo

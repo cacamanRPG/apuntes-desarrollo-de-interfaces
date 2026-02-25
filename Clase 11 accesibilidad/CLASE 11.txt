@@ -1,0 +1,20 @@
+Accesibilidad: cualidad de accesible, -> que tiene acceso, de fácil acceso o trato, de fácil comprensión, inteligente 
+es la característica que permite a los entornos, productos, servicios y medios de comunicación adaptarse
+a las necesidades de cada uno y ser empleado por todos para cumplir el objetivo diseñado.
+
+diseño universal: es un concepto que consiste en desarrollar productos, entornos y servicios utilizables por todas
+las personas en la mayor medida posible sin la necesidad de que se especialicen.
+-su objetivo es simplificar la vida de los pibes
+
+
+Ley de accesibilidad web: 26.653 nacional, los entes del Estado deben respetar los requisitos de accesibilidad
+en sus diseños de aplicaciones.
+
+existen Pautas de accesibilidad de contenido web (WCAG)
+
+pautas del diseño web: 
+el diseño debe ser:
+- Perceptible : Texto alternativo, Medios Tempodependientes, Adaptabilidad, Contenido distinguible
+- Operable : *Accesibilidad por teclado, *Tiempo suficiente, *Evitar destellos, *Navegabilidad
+- Comprensible: Legible, Predecible, Entrada de datos asistida
+- Robusto: Compatibilidad: mantener relación entre lo que se ve, y el código escrito detrás

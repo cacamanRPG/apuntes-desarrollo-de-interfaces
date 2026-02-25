@@ -1,0 +1,84 @@
+LA interacción humano computadora (HCI) trata sobre el diseño de las propiedades de la planificación y 
+la implementación, o sea la forma en la que se materializa la interacción
+
+
+"La mejor tecnología es la que se vuelve invisible" -APPLE
+
+NECESITAMOS QUE NUESTRAS INTERFACES SEAN *INVISIBLES*, QUE NO TENGAMOS QUE PENSAR EN ELLAS PARA USARLAS
+ES LO ÓPTIMO.
+
+-Aplicando las Reglas de Usabilidad
+-Evaluando las interfaces
+-Con trabajo de análisis y dedicación
+
+desde la 2da guerra mundial que se piensan las mejoras en las máquinas pensando en la ergonomía del usuario
+-se empezaron a tener en cuenta las capacidades
+mentales, sensoriales y musculares del individuo.
+
+“La Ergonomía es una disciplina tecnológica que
+trata del diseño de lugares de trabajo, herramientas
+y tareas que coinciden con las características
+fisiológicas, anatómicas, psicológicas y las capacidades
+del trabajador”.
+
+Visibilidad: todos los objetos con los que se interactuen tienen que ser visibles
+cuanto más visible es un
+elemento, más probable es que los usuarios se percaten
+de su existencia y sepan cómo usarlo.
+
+ABORDABILIDAD: los ojbetos que aparecen me tienen que decir qué hacen y cómo funcionan
+
+==========================
+QUÉ ES UNA INTERFAZ?
+En la informática se refiere a “un dispositivo
+capaz de asegurar el intercambio de datos
+entre dos sistemas”
+
+LAS METÁFORAS IMPORTAN
+
+La metáfora Conversacional.
+Características:
+El operador es un técnico
+especializado
+Usuario y software son
+emisores y receptores
+Intercambio de instrucciones y
+respuestas preprogramadas
+
+
+La metáfora Instrumental
+Surge de la necesidad de masificar
+el uso del operador no especializado
+para tareas cotidianas como: buscar,
+organizar, filtrar, imprimir, etc.
+Características:
+El operador es un usuario común
+no especializado
+Visibilidad de la acción através de
+la herramienta: la comunicación se
+hace visual. Manipulación directa de objetos
+Control y acciones visibles:
+tirar, cortar, pegar, borrar, mover, etc.
+
+La metáfora Superficial
+Características:
+Área sensible de interacción más grande.
+El usuario realiza sus tareas manipulando
+la información con sus dedos.
+Se unifica el diseño en los distintos
+formatos de pantalla, dispostivos móviles
+y tecnología smart.
+
+La metáfora ESPACIAL:
+Surge de la necesidad de crear
+mundos inmersivos y de que el
+usuario realice sus actividades
+como si estuviera en un entorno
+que le resulte familiar:
+Interacción directa con el espacio físico
+El usuarix realiza sus tareas con el
+movimiento de su cuerpo
+Relación entre el espacio físico y
+el entorno simulado
+
+

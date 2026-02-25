@@ -1,0 +1,86 @@
+USABILIDAD EN MÓVILES:
+
+Una Evaluación Heurística (EH) es un método de inspección de la
+usabilidad sin usuarios. Este, consiste en examinar la calidad de uso de una
+-Mide la calidad de la interfaz: en ser aprendida por primera vez, -
+-Inspecciona problemas potenciales 
+-recomendable en fases iniciales de un proyecto, sobre primeras versiones o Sobre sistemas en funcionamiento , a modo de consultorías
+
+Heurísticas para prueba de interfaces en
+dispositivos móviles
+Aunque las heurísticas de Nielsen son las más utilizadas en la actualidad para
+evaluaciones heurísticas, éstas no contemplan las particularidades que presentan
+aplicaciones móviles,
+
+************************************
+Principios Heurísticos:
+•
+10 Principios Heurísticos de Nielsen de su libro “ Usability Inspection Methods ” :
+
+1.Visibilidad del estado del sistema: dar feedback de lo que pása en la app
+2.Empate entre el sistema y el mundo real: el sistema debe hablar en el lenguaje del usuario.
+3.Control y libertad del usuario: colocar una “puerta de emergencia” para salir del estado indeseado. deshacer y rehacer acciones.
+4.Consistencia y estándares: Los usuarios no deben tener que preguntarse si las diversas palabras, situaciones, o acciones significan las misma cosa.
+5.Prevención de errores: evitar errores                                                                               Antes que diseñar buenos mensajes de error, es mejor evitar que el problema ocurra.
+6.Reconocimiento mejor que recuerdo: que el user reconozca la funcionalidad envés de pensarla.                                                                                          Minimizar la carga de memoria del usuario haciendo que los objetos, las acciones y las opciones estén visibles. El usuario no debería tener que recordar la información de una
+7.Flexibilidad y eficiencia de uso: atajos, para que sirva tanto a principiantes y expertos.
+8.Diseño estético y minimalista: 
+9.Ayudar a reconocer, diagnosticar y recuperarse de errores: Los mensajes de error deben estar expresados en lenguaje llano 
+10.Ayuda y documentación:
+
+•
+8 reglas de oro de Ben Schneiderman:
+
+1.Luchar por la consistencia: 
+2.Permitir a los user usar accesos directos
+3.Ofrecer comentarios informativos:
+4.Diseño de diálogo para producir la clausura
+5.Ofrecer una manipulación de errores simples 
+6.Permitir fácil retorno de acciones
+7.Apoyo interno a un enfoque de control total
+8.Reducir la carga de memoria a corto plazo
+
+•
+Lista de comprobación de ítems de Deniese Pierotti (2004), es la que
+utiliza la empresa Xerox para evaluar la calidad de sus interfaces.
+
+
+************************************
+
+El trabajo de Olibário Machado Neto y Maria da Graça Pimentel
+ “Heuristics for the Assessment of Interfaces of Mobile Devices” ,
+ propone heurísticas específicas para esta labor
+
+i. Uso del tamaño de la pantalla: elementos bien puestos, ni alejados ni pegados. y sin espacios grandes entre datas
+ii. Consistencia y estándares: consistencia visual, interacciones similares. misma metáfora siempre
+iii. Visibilidad y acceso fácil a la información:Toda la información debe ser visible y legible, tanto en modo portrait (orientación vertical) como landscape
+iv. Correspondencia del componente con su funcionalidad:saber exactamente qué información debe ingresar en determinado componente, Metáforas de funcionalidades deben ser entendidas sin dificultad
+v. Correspondencia del mensaje sobre funcionalidad hacia el usuario:lenguaje natural para el usuario, para evitar presionarlo.
+vi. Prevención de errores y rápida recuperación al último estado estable:Cuando un error ocurre, la aplicación debería advertir al usuario rápidamente y regresar al último estado estable de la aplicación
+vii. Facilidad de ingreso de información: la información ingresada sea siempre fácil de leer,
+viii. Facilidad de acceso a todas las funcionalidades: deben ser fácilmente encontradas/accedidas, principalmente las más importantes, y algunas usadas con más frecuencia deben tener atajos, shortcuts
+ix. Retroalimentación inmediata y visible: feedback everywhere
+x. Ayuda y documentación:donde problemas comunes y sus formas de resolución están especificadas
+
+
+
+1
+Preparación conocer el ámbito y el contexto del sistema a evaluar, elegir
+cuales de los principios heurísticos resultarán pertinentes a evaluar, definir
+las subheurísticas . Seleccionar y formar a los evaluadores (entre 3 y 5 sería
+lo ideal). <<--- y que sean potenciales usuarios de la app, u otros desarrolladores
+
+2
+Ejecución: los evaluadores seleccionados inspeccionarán más de una vez la
+interfaz (durante 1 o 2 horas) en las mismas condiciones y entorno de
+trabajo.
+
+3
+Análisis: todos los evaluadores harán una puesta en común de los
+resultados y puntuaciones individuales, y se redactará un informe final en
+el que se ordenarán los hallazgos de los más problemáticos a los que
+menos y se eliminarán los que sean duplicados o similares.
+
+
+
+

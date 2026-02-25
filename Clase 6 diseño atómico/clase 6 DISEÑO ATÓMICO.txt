@@ -1,0 +1,48 @@
+ÁTOMO = Mínima unidad indivisible y que por si sola no hace nada - un botón, texto...
+MOLÉCULA = componente simple y reutilizable - barra de búsqueda...
+Organismo = Componente complejo y reutilizable - un encabezado...
+TEMPLATES = grupos de organismos dispuestos en un espacio forman una PLANTILLA, su contenido es GENÉRICO
+PÁGINA = Es el prototiop visual. En alta se denominan SISTEMAS Es el diseño final con el contenido real
+
+cada uno es más desarrollado que el anterior, siendo un conjunto, una combinación.
+
+
+
+SISTEMAS GRÁFICOS - SISTEMAS DE PRESENTACIÓN VISUAL
+
+EN el programa se establecen un conjunto de variables y constantes, parámetros y normas
+basadas en la necesidad de TRANSMITIR DETERMINADO MENSAJE 
+
+PLANOS:
+
+SEMÁNTICO:
+Elaboración de mensajes.
+Tipo y tono de la información. Género y estilo.
+
+SINTÁCTICO:
+Tipografía, paleta cromática, Iconicidad
+
+PRAGMÁTICO:
+Condiciones de lectura, soporte, formato
+
+PRODUCTIVO:
+impresión, distribución
+
+FUNDAMENTACIÓN: El objetivo comunicacional - Las tipografías - los contextos de intervención
+
+EQUIDISTACIA: elementos distribuidos de una manera conceptual y morfológica. o sea que medio tengan fomra y sentido
+
+CLASIFICACIÓN DE SISTEMAS GRÁFICOS
+
+A. según complejidad
+
+B. según la apertura o flexibilidad del sistema
+
+C.Según características del programa y como manejan sus constantes y variables- 
+-FORMALES -> todo se apoya en la formalidad, en que se vea bien de empresa profesional capitalista.
+-CONCEPTUALES -> que sea más artístico, basado en los conceptos 
+-MIXTOS -> los do
+
+
+
+TIPOGRAFÍA:
